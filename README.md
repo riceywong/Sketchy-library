@@ -3,6 +3,8 @@ Sketchy lo-fi prototype sketch library v1
 
 Download font: https://fonts.google.com/specimen/Coming+Soon?selection.family=Coming+Soon
 
+![alt text](https://i.imgur.com/QGQD5eS.png "Sketchy prototype style preview")
+
 ---
 
 **Planned updates**
